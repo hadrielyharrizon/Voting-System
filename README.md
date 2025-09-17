@@ -30,6 +30,7 @@ python app.py
 ```
 ## Exemplo de Funcionamento
 
+```bash
 ===== SISTEMA DE VOTAÇÃO =====
 Candidatos disponíveis:
 1. Alice
@@ -38,15 +39,18 @@ Candidatos disponíveis:
 
 Digite o número do candidato (ou 'fim' para encerrar): 1
 Voto registrado para Alice!
+```
 
 ## Resultado 
 
+```bash
 ===== RESULTADO FINAL =====
 Alice: 2 votos
 Bruno: 1 voto
 Carla: 0 votos
 
 Vencedor: Alice com 2 votos!
+```
 
 
 ---
